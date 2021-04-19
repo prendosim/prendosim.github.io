@@ -1,3 +1,3 @@
 # prendosim.github.io
 
-we need to create a html doc
+this is where the info outward facing goes
