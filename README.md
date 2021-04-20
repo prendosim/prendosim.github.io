@@ -1,5 +1,3 @@
-# https://prendosim.github.io
-
 # PrendoSim
 
 <p align="left">
@@ -9,9 +7,9 @@
 
 PrendoSim is a robot gripper simulator that allows scientists working on robotics to do generate and test viable grasps using a proxy-hand method and a novel grasp stability metric based on the amount of weight that can be withstand. This simulator takes advantage of Unity's latest NVIDIA PhysX 4.1 integration to create physically realistic grasp simulations and outputs joint pose data of the grippers digits (json format), grasped object's position, and images of the grasp from a specified point of view in png format.
 
-Information about the project has been published as Diar Abdlkarim, Valerio Ortenzi, Tommaso Pardi, Maija Filipovica, Alan M. Wing, Katherine J. Kuchenbecker, Massimiliano Di Luca (2021). PrendoSim: Proxy-Hand-Based Robot Grasp Generator, ICINCO 2021 available here: \url{PrendoSim_Camera_Ready.pdf}
+Information about the project has been published as Diar Abdlkarim, Valerio Ortenzi, Tommaso Pardi, Maija Filipovica, Alan M. Wing, Katherine J. Kuchenbecker, Massimiliano Di Luca (2021). PrendoSim: Proxy-Hand-Based Robot Grasp Generator, ICINCO 2021 available here: [PrendoSim_Camera_Ready.pdf](https://github.com/prendosim/prendosim.github.io/blob/main/PrendoSim_Camera_Ready.pdf)
 
-Abstract: The synthesis of realistic robot grasps in a simulated environment is pivotal in generating datasets that support sim-to-real transfer learning. In a step toward achieving this goal, we propose PrendoSim, an open-source  (https://prendosim.github.io) grasp generator based on a proxy-hand simulation that employs NVIDIA's physics engine (PhysX) and the recently-released articulated-body objects developed by Unity. We present the implementation details, the method used to generate grasps, the approach to operationally-evaluate stability of the generated grasps, and examples of grasps obtained with two different grippers (a parallel jaw gripper and a three-finger hand) grasping three objects selected from the YCB dataset (hammer, screwdriver, and scissors).  Compared to simulators proposed in the literature, PrendoSim balances grasp realism and ease of use, displaying an intuitive interface and enabling the user to produce a large and varied dataset of stable grasps.
+Abstract: The synthesis of realistic robot grasps in a simulated environment is pivotal in generating datasets that support sim-to-real transfer learning. In a step toward achieving this goal, we propose PrendoSim, an open-source  [https://prendosim.github.io](https://prendosim.github.io) grasp generator based on a proxy-hand simulation that employs NVIDIA's physics engine (PhysX) and the recently-released articulated-body objects developed by Unity. We present the implementation details, the method used to generate grasps, the approach to operationally-evaluate stability of the generated grasps, and examples of grasps obtained with two different grippers (a parallel jaw gripper and a three-finger hand) grasping three objects selected from the YCB dataset (hammer, screwdriver, and scissors).  Compared to simulators proposed in the literature, PrendoSim balances grasp realism and ease of use, displaying an intuitive interface and enabling the user to produce a large and varied dataset of stable grasps.
 
 ## Prerequisites
 
@@ -47,7 +45,7 @@ Before you begin, ensure that the following requirements are met:
 
 To use <PrendoSim>, follow these steps:
 
-1. Download the attached [PrendoSim Unity package](https://www.dropbox.com/s/yhhmovezg97nrm9/PrendoSimv1.unitypackage?dl=1) and save it:
+1. Install the [PrendoSim Unity package](https://github.com/prendosim/prendosim.github.io/blob/main/PrendoSimv1.unitypackage) as such:
 
 Linux and macOS:
 ```
@@ -75,7 +73,7 @@ To use <PrendoSim>, follow these steps:
 <!--- If your README is long or you have some specific process or steps you want contributors to follow, consider creating a separate CONTRIBUTING.md file--->
 To contribute to <PrendoSim>, follow these steps:
 
-1. Fork this repository.
+1. Fork the [repository](https://github.com/prendosim/prendosim.github.io).
 2. Create a branch: `git checkout -b <branch_name>`.
 3. Make your changes and commit them: `git commit -m '<commit_message>'`
 4. Push to the original branch: `git push origin <project_name>/<location>`
