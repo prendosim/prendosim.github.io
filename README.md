@@ -11,6 +11,8 @@ PrendoSim is a robot gripper simulator that allows scientists working on robotic
 
 Information about the project has been published as Diar Abdlkarim, Valerio Ortenzi, Tommaso Pardi, Maija Filipovica, Alan M. Wing, Katherine J. Kuchenbecker, Massimiliano Di Luca (2021). PrendoSim: Proxy-Hand-Based Robot Grasp Generator, ICINCO 2021 available here: \url{PrendoSim_Camera_Ready.pdf}
 
+Abstract: The synthesis of realistic robot grasps in a simulated environment is pivotal in generating datasets that support sim-to-real transfer learning. In a step toward achieving this goal, we propose PrendoSim, an open-source  (https://prendosim.github.io) grasp generator based on a proxy-hand simulation that employs NVIDIA's physics engine (PhysX) and the recently-released articulated-body objects developed by Unity. We present the implementation details, the method used to generate grasps, the approach to operationally-evaluate stability of the generated grasps, and examples of grasps obtained with two different grippers (a parallel jaw gripper and a three-finger hand) grasping three objects selected from the YCB dataset (hammer, screwdriver, and scissors).  Compared to simulators proposed in the literature, PrendoSim balances grasp realism and ease of use, displaying an intuitive interface and enabling the user to produce a large and varied dataset of stable grasps.
+
 ## Prerequisites
 
 Before you begin, ensure that the following requirements are met:
