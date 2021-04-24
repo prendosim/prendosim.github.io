@@ -1,4 +1,4 @@
-# [PrendoSim](https://prendosim.github.io) < - > [https://github.com/prendosim/prendosim.github.io/](https://github.com/prendosim/prendosim.github.io/)
+#PrendoSim
 
 <p align="left">
   <img width="200" height="200" src="prendosim2.png">
@@ -6,6 +6,8 @@
 
 
 PrendoSim is a robot gripper simulator that allows scientists working on robotics to do generate and test viable grasps using a proxy-hand method and a novel grasp stability metric based on the amount of weight that can be withstand. This simulator takes advantage of Unity's latest NVIDIA PhysX 4.1 integration to create physically realistic grasp simulations and outputs joint pose data of the grippers digits (json format), grasped object's position, and images of the grasp from a specified point of view in png format.
+
+*Repository: [https://github.com/prendosim/prendosim.github.io/](https://github.com/prendosim/prendosim.github.io/)*
 
 Information about the project has been published in the paper:
 
