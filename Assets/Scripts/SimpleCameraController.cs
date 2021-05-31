@@ -4,6 +4,8 @@
     using UnityEngine.InputSystem.Controls;
 #endif
 
+// More functionality should be added here. 
+
 using UnityEngine;
 
 namespace UnityTemplateProjects
