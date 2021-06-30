@@ -11,7 +11,7 @@ PrendoSim is a robot gripper simulator that allows scientists working on robotic
 
 Information about the project has been published in the paper:
 
-(https://diarkarim.com)[Diar Abdlkarim], (https://scholar.google.com.au/citations?user=bWuZUsoAAAAJ&hl=en)[Valerio Ortenzi], (https://scholar.google.com/citations?user=eCc_7IgAAAAJ&hl=it)[Tommaso Pardi], (https://bristolcnu.github.io/people/RPC_maija_filipovica/index.html)[Maija Filipovica], (https://scholar.google.co.uk/citations?user=JEihq_0AAAAJ&hl=en)[Alan M. Wing], (https://scholar.google.com/citations?user=ED5iKYYAAAAJ&hl=en)[Katherine J. Kuchenbecker], (https://massimilianodiluca.info](Massimiliano Di Luca] (2021). PrendoSim: Proxy-Hand-Based Robot Grasp Generator, ICINCO 2021
+[Diar Abdlkarim](https://diarkarim.com), [Valerio Ortenzi](https://scholar.google.com.au/citations?user=bWuZUsoAAAAJ&hl=en), [Tommaso Pardi](https://scholar.google.com/citations?user=eCc_7IgAAAAJ&hl=it), (https://bristolcnu.github.io/people/RPC_maija_filipovica/index.html)[Maija Filipovica], (https://scholar.google.co.uk/citations?user=JEihq_0AAAAJ&hl=en)[Alan M. Wing], (https://scholar.google.com/citations?user=ED5iKYYAAAAJ&hl=en)[Katherine J. Kuchenbecker], (https://massimilianodiluca.info](Massimiliano Di Luca] (2021). PrendoSim: Proxy-Hand-Based Robot Grasp Generator, ICINCO 2021
 
 ### [Preprint available here](https://github.com/prendosim/prendosim.github.io/blob/main/PrendoSim_Camera_Ready.pdf).
 
